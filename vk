@@ -1,0 +1,11 @@
+<div class="ac_wrap clear_fix"><div id="ac_controls" class="fl_l">
+    <div id="ac_play" class="fl_l"></div>
+    <div class="next_prev fl_l">
+      <div id="ac_prev" class="ctrl_wrap">
+        <div class="prev ctrl"></div>
+      </div>
+      <div id="ac_next" class="ctrl_wrap">
+        <div class="next ctrl"></div>
+      </div>
+    </div>
+  </div>
